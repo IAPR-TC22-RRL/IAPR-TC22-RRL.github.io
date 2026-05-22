@@ -53,10 +53,4 @@ Here is a non-exhaustive list of procedures to follow for situations that may ar
    b. If the problem can be fixed, **ask the author to update their Git repository** accordingly (README.md/INSTALL.md instructions, code, data, etc.).
    c. If the problem cannot be fixed, contact the Reproducible Label chairs so the case can be reassigned to another reviewer if possible, and finish filling out your report.
 
-## Contact
-
-**Reproducible Label chairs** :
-
-- [Miguel Colom (miguel.colom-barco@ens-paris-saclay.fr)](mailto:miguel.colom-barco@ens-paris-saclay.fr)
-- [Juan-Antonio Cordero-Fuertes (juan-antonio.cordero-fuertes@polytechnique.edu)](mailto:juan-antonio.cordero-fuertes@polytechnique.edu)
-- [Adrien Krähenbühl (krahenbuhl@unistra.fr)](mailto:krahenbuhl@unistra.fr)
+{% include contact.markdown %}

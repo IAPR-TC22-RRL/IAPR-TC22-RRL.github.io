@@ -4,3 +4,6 @@ permalink: /authors/
 ---
 
 This is the page for authors.
+
+
+{% include contact.markdown %}

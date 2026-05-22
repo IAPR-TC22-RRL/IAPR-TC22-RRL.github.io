@@ -1,6 +1,8 @@
 ---
 layout: home
-permalink: /
+permalink: /icpr2026
+redirect_from:
+  - /
 ---
 
 {: .centertext}
@@ -35,3 +37,6 @@ Click on the menus on the top of the page to the see details for the procedures 
 - Issue's affectation to reviewers: **10/06**
 - Reviews are due to: **1/07**
 - Notification to authors: **1/08**
+
+
+{% include contact.markdown %}

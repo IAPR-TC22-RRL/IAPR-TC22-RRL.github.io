@@ -18,17 +18,20 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: IAPR - TC22 - RRPR Badge
-email: krahenbuhl@unistra.fr
+title: IAPR TC22-RRPR | Reproducible Research Label for ICPR 2026
+email: rr_chairs@icpr2026.org
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to the website of the IAPR TC-22 RRPR Badge.
+  Website of the Reproducible Research Label for ICPR 2026 proposed by IAPR TC22-RRPR.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://oiap-tc22-rrl.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://iapr-tc22-rrl.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  IAPR-TC22-RRL
 
 # Build settings
 theme: minima
+
+plugins:
+  - jekyll-redirect-from
 
 # Exclude from processing.
 # The following items will not be processed, by default.
