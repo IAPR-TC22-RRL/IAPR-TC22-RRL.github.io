@@ -3,14 +3,12 @@ title: Reviewer's guide
 permalink: /icpr2026/reviewers/
 ---
 
-> _This guide may be expanded during the review phase._
+## The Github issue
 
-## The GitHub issue
+To perform a review, **start from the [Github issue](https://github.com/IAPR-TC22-RRL/ICPR-2026-Reproducible-Research-Label-submissions-test/)** assigned to you.
 
-To perform a review, **start from the [GitHub issue](https://github.com/IAPR-TC22-RRL/ICPR-2026-Reproducible-Research-Label-submissions-test/)** assigned to you.
-
-If you encounter errors or problems before or during your review, you can communicate with the author by posting comments at the bottom of the issue.
-The goal is not to stop the review if a problem arises, but to **help the author improve their code so that their results are reproducible**.
+If you encounter any errors or problems during your review, you can communicate with the author by posting comments at the bottom of the issue.
+The task of the reviewer is not to fix a non-reproducible submission, but to **help the author improve their code so that their results are reproducible**, assuming that they're close to the objective. Submissions that fail to be reproducible beyond minor details are not expected get the badge recommendation from the reviewers. The reviews can be considered as a straightforward and little time-consuming check of the reproducibility of the submissions.
 
 ## Your review on CMT
 

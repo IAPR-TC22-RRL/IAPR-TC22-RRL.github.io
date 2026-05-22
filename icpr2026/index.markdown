@@ -10,11 +10,9 @@ redirect_from:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![]({{ "assets/logoTC22.png" | relative_url }}){: .width-20}](https://iapr-tc22.org/)
 
-For the first time in ICPR, the IAPR [Technical Committee 22 (TC-22)](https://iapr-tc22.org/) proposes to acknowledge with a **Reproducible Research in Pattern Recognition Badge** those papers that have been accepted for the main conference and that, after a second review specifically on reproducibility, are considered to be reproducible.
+For the first time in ICPR, the IAPR [Technical Committee 22 (TC-22)](https://iapr-tc22.org/) proposes to acknowledge with a **Reproducible Research in Pattern Recognition Badge** those papers that have been accepted for the main conference and, that after a second specific review, are considered eligible to be labeled as _reproducible_. The ICPR Reproducible Research Chairs, acting as Meta-Reviewers, will eventually validate the reports of the assigned reviewers. Finally, the list of labeled papers will appear in section of the ICPR official proceedings dedicated to the RRPR badge, as well as in the websites of ICPR 2026 and TC-22.
 
-This label is managed by the **ICPR Reproducible Research Chairs**{: .chairs}. 
-
-At each edition of the RRPR badge we try to establish a collaboration with relevant local organizations that and, given that in 2026 ICPR is in Lyon (France), we have an alliance with [GRETSI](https://www.gretsi.fr/). Reviewers from GRETSI are invited to participate in the RRPR badge process.
+Given that this year ICPR is held in Lyon (France), we have an alliance with [GRETSI](https://www.gretsi.fr/). Reviewers from GRETSI are invited to participate in the RRPR Badge review process.
 
 ## Overview of the submission and review process
 
