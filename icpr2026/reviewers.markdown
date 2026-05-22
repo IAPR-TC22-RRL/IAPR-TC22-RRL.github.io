@@ -1,6 +1,6 @@
 ---
 title: Reviewer's guide
-permalink: /reviewers/
+permalink: /icpr2026/reviewers/
 ---
 
 > _This guide may be expanded during the review phase._

@@ -1,6 +1,6 @@
 ---
 title: Author's guide
-permalink: /authors/
+permalink: /icpr2026/authors/
 ---
 
 This is the page for authors.
