@@ -20,17 +20,17 @@
 
 ## A - Initial status before review
 
-1. **All issue's informations** was exact:
+1. **All the issue's informations** was exact:
    * [ ] Yes
    * [ ] No
-2. The repository was **public** at the beginning:
+2. The repository was **public** from the beginning:
    * [ ] Yes
    * [ ] No
 3. There was a **README file** with instructions to compile/execute the code:
    * [ ] Yes
    * [ ] No
-4. The **data** needed to reproduce the results were available:
-   * [ ] Yes, all
+4. The **data** needed to reproduce the results was available:
+   * [ ] Yes, all of it
    * [ ] Yes, for the most part
    * [ ] No, essential data was missing
 5. The **elements to be reproduced** were available:
@@ -44,7 +44,7 @@ Any comments:
 
 > _Describe here all the steps taken to reproduce the results: the commands used to install dependencies, to compile and run the program, etc._
 
-## C - Outcome
+## C - Outcome after the review
 
 ### _1 - Git repository status_
 
@@ -70,25 +70,25 @@ Any comments:
 
 ### _2 - Reproductibility_
 
-1. The code **compile**:
+1. The code **compiles**:
    * [ ] without error
    * [ ] with errors
    * [ ] Not concerned
-2. The code is **running** :
+2. The code **runs** :
    * [ ] without error
    * [ ] with errors
-3. **Execution time** measured :
-4. If the code runs **without errors**, it's done:
+3. Measured **execution time**:
+4. If the code runs **without errors**, it does...
    * [ ] without any changes to the code originally submitted
    * [ ] with a few minor changes to the code that was originally submitted
    * [ ] with significant changes to the code that was originally submitted
-5. Les **résultats attendus** sont obtenus :
+5. **Results** are obtained:
    * [ ] always
-   * [ ] sometime
+   * [ ] sometimes
    * [ ] never
-6. The results were **consistent along runs**:
+6. The results were **consistent along different runs**:
    * [ ] Yes, for all runs
-   * [ ] Yes, on some runs, but not on all of them
+   * [ ] Yes, for some runs, but not for all of them
    * [ ] No
 7. The results obtained are **consistent with those reported by the authors** in their paper:
    * [ ] exactly
@@ -98,12 +98,12 @@ Any comments:
 
 Any comments: 
 
-## Result
+## Decision
 
 As a reviewer, **I consider that, at the end of my review, the author's repository allows the stated results to be reproduced** :
 
 * [ ] Yes, all
-* [ ] Yes, with some reservations
+* [ ] Yes, although I have some minor concerns 
 * [ ] No
 
 Any comments: 
