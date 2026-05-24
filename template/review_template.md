@@ -68,7 +68,7 @@ Any comments:
 
 Any comments: 
 
-### _2 - Reproductibility_
+### _2 - Reproducibility_
 
 1. The code **compiles**:
    * [ ] without error
