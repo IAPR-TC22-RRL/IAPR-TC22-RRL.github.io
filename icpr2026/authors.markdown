@@ -3,6 +3,11 @@ title: Author's guide
 permalink: /icpr2026/authors/
 ---
 
+{: .centertext}
+[![]({{ "assets/icpr26Logo.svg" | relative_url }}){: .width-14}](https://icpr2026.org/)
+&nbsp;&nbsp;
+[![]({{ "assets/logoTC22.png" | relative_url }}){: .width-7}](https://iapr-tc22.org/)
+
 ## Code requirements
 
 Your code is eligible for the **Reproducible Research Label** if:
