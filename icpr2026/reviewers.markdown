@@ -49,6 +49,6 @@ Here is a non-exhaustive list of procedures to follow for situations that may ar
 2. If there are **execution environment issues or dependency version problems**:
    a. Discuss the problem with the author and see how to resolve it.
    b. If the problem can be fixed, **ask the author to update their Git repository** accordingly (README.md/INSTALL.md instructions, code, data, etc.).
-   c. If the problem cannot be fixed, contact the Reproducible Label chairs so the case can be reassigned to another reviewer if possible, and finish filling out your report.
+   c. If the problem cannot be fixed, contact the Reproducible Label chairs so that the case can be reassigned to another reviewer if possible, and finish filling out your report.
 
 {% include contact.markdown %}
