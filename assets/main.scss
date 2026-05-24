@@ -134,7 +134,7 @@ img.centerv {
 .chairs{ color: #646a04; }
 
 main h2 {
-    border-bottom: 1px solid #ccc;
+    border-bottom: 1px solid #e8e8e8;
     width: 100%;
 }
 
@@ -143,4 +143,8 @@ ul.checklist {
   > li:before {
     content: '✓ ';
   }
+}
+
+.site-header {
+    border-top: 0;
 }
