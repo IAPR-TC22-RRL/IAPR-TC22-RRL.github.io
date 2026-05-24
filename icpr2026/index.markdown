@@ -38,6 +38,7 @@ _Click the menus at the top of the page for more details about the procedures fo
 
 ## Collaboration
 
+{: .centertext}
 [![]({{ "assets/logo-gretsi.png" | relative_url }})](https://www.gretsi.fr/)
 
 Given that this year ICPR is held in Lyon (France), we have an alliance with the French association [GRETSI](https://www.gretsi.fr/) in order to benefit from their experience with the Reproducible Research label, which they successfully implemented for their [GRETSI'25 edition](https://gretsi.fr/colloque2025/recherche-reproductible/).
