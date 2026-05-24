@@ -77,11 +77,12 @@ Any comments:
 2. The code **runs** :
    * [ ] without errors
    * [ ] with errors
-3. Measured **execution time**:
-4. If the code runs **without errors**, it runs...
+3. Measured **execution time**: 
+4. The code runs **without errors** and:
    * [ ] without any changes to the code originally submitted
    * [ ] with a few minor changes to the code originally submitted
    * [ ] with significant changes to the code originally submitted
+   * [ ] not applicable
 5. **Results** are obtained:
    * [ ] always
    * [ ] sometimes
@@ -103,7 +104,7 @@ Any comments:
 As a reviewer, **I consider that, at the end of my review, the author's repository allows reported results to be reproduced**:
 
 * [ ] Yes, all
-* [ ] Yes, although I have some minor concerns 
+* [ ] Yes, although I have some minor concerns
 * [ ] No
 
 Any comments: 

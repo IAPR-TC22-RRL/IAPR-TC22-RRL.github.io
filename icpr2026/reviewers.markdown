@@ -69,14 +69,10 @@ Here is a non-exhaustive **list of procedures** to follow for situations that ma
 2. There are **execution environment issues or dependency version problems**:
    a. Discuss the problem with the author and see how to resolve it.
    b. If the problem can be fixed, **ask the author to update their Git repository** accordingly (README.md/INSTALL.md instructions, code, data, etc.).
-<<<<<<< HEAD
-   c. If the problem cannot be fixed, contact the Reproducible Label chairs so that the case can be reassigned to another reviewer if possible, and finish filling out your report.
-=======
    c. If the problem cannot be fixed, contact the <span class="chairs">Reproducible Research Label chairs</span> so the case can be reassigned to another reviewer if possible, and finish filling out your report.
 
 ## At the end of the review
 
 Once the review is completed, you must **upload your completed report to the CMT system**.
->>>>>>> fbce200a58f424b0509b55af75db1ab05230572d
 
 {% include contact.markdown %}

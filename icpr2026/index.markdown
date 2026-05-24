@@ -16,17 +16,10 @@ For the first time in ICPR 2026, the IAPR [Technical Committee 22 (TC-22)](https
 
 The review process is the following:
 
-<<<<<<< HEAD
-1. Each **author**{: .author} of an accepted paper that have checked the "RRPR badge" when submitting the paper to the main conference **may apply**{: .author} to the RRPR badge by **creating a new issue**{: .author} on the [dedicated Github repository](https://github.com/IAPR-TC22-RRL/ICPR-2026-Reproducible-Research-Label-submissions-test/). This issue must include some details, in particular:
-    - an URL of the **git repository**{: .author} containing the source code that was used to obtain the results of the paper
-    - an indication of the elements of the paper that the authors consider the reviewers should check
-2. The **ICPR Reproducible Research Chairs**{: .chairs} use the same system as the system used for regular papers review ([CMT](https://cmt3.research.microsoft.com/ICPR2026/)) to **assign the reviewers to each created issue**{: .chairs}.
-=======
 1. Each **author**{: .author} of an accepted paper who has checked the "RRPR badge" when submitting the paper to the main conference **may apply**{: .author} for the RRPR badge by **creating a new issue**{: .author} on the [dedicated GitHub repository](https://github.com/IAPR-TC22-RRL/ICPR-2026-Reproducible-Research-Label-submissions-test/). This issue must include some details, in particular:
     - a URL of the **Git repository**{: .author} containing the source code that was used to obtain the results of the paper,
     - an indication of the elements of the paper that the authors consider the reviewers should check.
-2. The **ICPR Reproducible Research Chairs**{: .chairs} use the same system as for the papers ([CMT](https://cmt3.research.microsoft.com/ICPR2026/)) to **assign reviewers to each created issue**{: .chairs}.
->>>>>>> fbce200a58f424b0509b55af75db1ab05230572d
+2. The **ICPR Reproducible Research Chairs**{: .chairs} use the same system as for regular papers review ([CMT](https://cmt3.research.microsoft.com/ICPR2026/)) to **assign reviewers to each created issue**{: .chairs}.
 3. Each **reviewer**{: .reviewer} attempts to **compile and execute the source code**{: .reviewer} and reproduce the results reported by the authors.
     - As part of the review process, the reviewer **completes a "review form"**{: .reviewer}.
     - At the end, the reviewers **submit the review form**{: .reviewer} on the [CMT](https://cmt3.research.microsoft.com/ICPR2026/) system.
