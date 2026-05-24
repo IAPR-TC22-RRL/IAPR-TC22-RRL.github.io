@@ -1,6 +1,6 @@
 ## Contact
 
-**Reproducible Label chairs**
+**Reproducible Research Label chairs**
 
 - Miguel Colom
 - Juan-Antonio Cordero-Fuertes

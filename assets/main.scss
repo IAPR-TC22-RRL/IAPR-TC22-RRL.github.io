@@ -137,3 +137,10 @@ main h2 {
     border-bottom: 1px solid #ccc;
     width: 100%;
 }
+
+ul.checklist {
+  list-style: none;
+  > li:before {
+    content: '✓ ';
+  }
+}
