@@ -36,8 +36,8 @@ It is available on the [reviewer's guide page]({{ "icpr2026/reviewers/"}}).
 To submit your code, you need to have a GitHub account and **create an issue** in our dedicated repository:
 
 {: .centertext}
-[![]({{ "assets/logo-github.png" | relative_url }})](https://github.com/IAPR-TC22-RRL/ICPR-2026-Reproducible-Research-Label-submissions-test/)<br>
-_[https://github.com/IAPR-TC22-RRL/ICPR-2026-Reproducible-Research-Label-submissions-test/](https://github.com/IAPR-TC22-RRL/ICPR-2026-Reproducible-Research-Label-submissions-test/)_
+[![]({{ "assets/logo-github.png" | relative_url }})](https://github.com/IAPR-TC22-RRL/ICPR-2026-Reproducible-Research-Label-submissions/)<br>
+_[https://github.com/IAPR-TC22-RRL/ICPR-2026-Reproducible-Research-Label-submissions/](https://github.com/IAPR-TC22-RRL/ICPR-2026-Reproducible-Research-Label-submissions/)_
 
 ## Be responsive to be labeled
 

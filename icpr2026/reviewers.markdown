@@ -35,11 +35,11 @@ _Download templates by clicking on icons._
 
 ## The GitHub issue
 
-To perform a review, **start from the [GitHub issue](https://github.com/IAPR-TC22-RRL/ICPR-2026-Reproducible-Research-Label-submissions-test/)** assigned to you.
+To perform a review, **start from the [GitHub issue](https://github.com/IAPR-TC22-RRL/ICPR-2026-Reproducible-Research-Label-submissions/)** assigned to you.
 
 {: .centertext}
-[![]({{ "assets/logo-github.png" | relative_url }})](https://github.com/IAPR-TC22-RRL/ICPR-2026-Reproducible-Research-Label-submissions-test/)<br>
-_[https://github.com/IAPR-TC22-RRL/ICPR-2026-Reproducible-Research-Label-submissions-test/](https://github.com/IAPR-TC22-RRL/ICPR-2026-Reproducible-Research-Label-submissions-test/)_
+[![]({{ "assets/logo-github.png" | relative_url }})](https://github.com/IAPR-TC22-RRL/ICPR-2026-Reproducible-Research-Label-submissions/)<br>
+_[https://github.com/IAPR-TC22-RRL/ICPR-2026-Reproducible-Research-Label-submissions/](https://github.com/IAPR-TC22-RRL/ICPR-2026-Reproducible-Research-Label-submissions/)_
 
 ## Checks before starting the review
 
