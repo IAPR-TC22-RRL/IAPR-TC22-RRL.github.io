@@ -29,7 +29,7 @@ Your code has a better chance of obtaining the **Reproducible Research Label** i
   - we cannot guarantee that we will label code if there are notable differences between the paper's results and those of the reviewer due to this lack of seeds.
 
 We recommend that you consult the review report that the reviewers will have to complete to ensure your Git repository is set up in the best possible way.
-It is available on the [reviewer's guide page]({{ "icpr2026/reviewers/"}}).
+It is available on the [reviewer's guide page]({{ "icpr2026/reviewers" | relative_url }}).
 
 ## Submit code
 
