@@ -69,9 +69,21 @@ Some items you review might want to check:
 - The reviewer is able to obtain the same or equivalent (for non-deterministic algorithms) results as given by the authors in their paper. For example, the reviewer is able to obtain the same tables or figures with the data provided.
 - The code is properly versioned, and it can be referred with a proper PID (as for example, the SHWID)
 
-Remember that this are only indications, not a request to systematically review each of the items. Of course, the more detailed the review, the better to support their decision.
+In your short review report you might mention these items, or any other you judged important in your decision.
+
+Remember that this are only indications, not a request to systematically review each of the items. Of course, the more detailed the review, the better to support their decision. Needless to0 say, the compilation, execution, and comparison with the results provided by the authors are key elements to determine the reproducibility of the submission.
+
 The decision of the reviewers relies on their own criteria, which will be completed by the evaluation of the RR-Chairs acting as Meta-Reviewers.
 
-In your short review report you might discuss these items, or any other you judged important in your decision.
+In order to help te reviewers in their task, we're providing a review form can be uploaded along with the report.
+
+{: .centertext}
+[![]({{ "assets/icon_markdown.png" | relative_url }}){: .width-8}]({{ "template/review_template.md" | relative_url }})&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![]({{ "assets/icon_docx.png" | relative_url }}){: .width-8}]({{ "template/review_template.docx" | relative_url }})
+[![]({{ "assets/icon_text.png" | relative_url }}){: .width-8}]({{ "template/review_template.txt" | relative_url }})
+
+
+{: .centertext}
+The form can be downloaded in different formats, at the convenience of the reviewer: markdown, docx, and plain text. You can download the templates by clicking on icons.
 
 {% include contact.markdown %}

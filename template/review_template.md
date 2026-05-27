@@ -1,4 +1,4 @@
-# ICPR'26 - Reproducible Research Label - issue #{id}
+# ICPR'26 - Reproducible Research Label
 
 ## Repository informations
 
