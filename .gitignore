@@ -1,3 +1,5 @@
+gi_*
+*.docx#
 _site/
 .sass-cache/
 .jekyll-cache/
