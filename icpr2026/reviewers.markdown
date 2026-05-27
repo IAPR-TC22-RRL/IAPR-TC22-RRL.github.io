@@ -13,7 +13,7 @@ First of all, let us first thank the Reviewers Board.
 The RRPR Badge wouldn't be possible without your work and we must express our enormous gratitude for making this initiative a reality.
 We absolutely appreciate your involvement in the review process. We hope that the label will help make more visible the problem of reproducibility in research and its need for reliable scientific advance.
 
-The name of each of the reviewers will be acknowledged in both the ICPR proceedings and the websites of ICPR and TC-22 (unless a reviewer doesn't wish to, of course).
+Each of the reviewers will be acknowledged in both the ICPR proceedings and the websites of ICPR and TC-22 (unless a reviewer doesn't wish to, of course).
 
 ## The Review process
 The authors of ICPR papers checked a checkbox during the submission to apply for the RRPR Badge. Once they got accepted for the main conference, they were eligible for the badge.
