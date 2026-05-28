@@ -15,7 +15,7 @@ Your code is eligible for the **Reproducible Research Label** if:
 {: .checklist}
 - it is **associated with a paper accepted at the main conference ICPR 2026**
 - the authors checked the option to **apply for the RRPR Badge**
-- the source code is public (typically via a link to a Github repository, or a tarball in the authors' website, or any other mean)
+- the source code is public (i.e., a link to their Github repository)
 - it has a **README or INSTALL file** that explains how to install dependencies and details the commands to compile and execute the code
 - the required **data** is **publicly available**
 - the author conform their participation after checking both the instructions for authors and reviewers
