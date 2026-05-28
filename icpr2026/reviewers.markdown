@@ -71,7 +71,7 @@ Some items you review might want to check:
 
 In your short review report you might mention these items, or any other you judged important in your decision.
 
-Remember that this are only indications, not a request to systematically review each of the items. Of course, the more detailed the review, the better to support their decision. Needless to0 say, the compilation, execution, and comparison with the results provided by the authors are key elements to determine the reproducibility of the submission.
+Remember that this are only indications, not a request to systematically review each of the items. Of course, the more detailed the review, the better to support their decision. Needless to say, the compilation, execution, and comparison with the results provided by the authors are key elements to determine the reproducibility of the submission.
 
 The decision of the reviewers relies on their own criteria, which will be completed by the evaluation of the RR-Chairs acting as Meta-Reviewers.
 
