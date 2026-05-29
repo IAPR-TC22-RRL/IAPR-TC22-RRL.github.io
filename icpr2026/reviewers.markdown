@@ -30,13 +30,7 @@ It may happen that a submission is mainly reproducible but some details are miss
 
 If you accept to help us with this new initiative, please set the *"Reproducible Research in Pattern Recognition (RRPR) Badge"* option in your subject area.
 
-# The Reviewer's guide
-
-## Start a review
-
-You will be assigned a code to evaluate on the **CMT system**, where you will have access to the paper and any supplementary material associated with the **code to review**.
-
-## A Reviewer's guide
+## Reviewer's guide
 This section provides some hints for the reviewers.
 Of course, the more the reviewer checks to decide on the reproducibility of the submission, the better.
 
