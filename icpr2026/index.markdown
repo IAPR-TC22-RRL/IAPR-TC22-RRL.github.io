@@ -32,6 +32,6 @@ _Click the menus at the top of the page for more details about the procedures fo
 - Reviews are due to:
 - Notification to authors:
 
-The ICPR 2026 Reproducible Research Chairs thank especially Adrien Krähenbühl for his help in the organizatio of this first edition of the Reproducible Research in Pattern Recognition (RRPR) Badge.
+The ICPR 2026 Reproducible Research Chairs thank especially Adrien Krähenbühl for his help in the organization of this first edition of the Reproducible Research in Pattern Recognition (RRPR) Badge.
 
 {% include contact.markdown %}
