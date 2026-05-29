@@ -11,14 +11,14 @@ permalink: /icpr2026/reviewers/
 ## Our gratitude to ICPR RRPR Reviewers
 First of all, let us first thank the Reviewers Board.
 The RRPR Badge wouldn't be possible without your work and we must express our enormous gratitude for making this initiative a reality.
-We absolutely appreciate your involvement in the review process. We hope that the label will help make more visible the problem of reproducibility in research and its need for reliable scientific advance.
+We honestly appreciate your involvement in the review process. We hope that the label will help make more visible the problem of reproducibility in research and its need for reliable scientific advance.
 
 Each of the reviewers will be acknowledged in both the ICPR proceedings and the websites of ICPR and TC-22 (unless a reviewer doesn't wish to, of course).
 
 ## The Review process
-The authors of ICPR papers checked a checkbox during the submission to apply for the RRPR Badge. Once they got accepted for the main conference, they were eligible for the badge.
+The authors of ICPR papers checked a checkbox during the submission to apply for the RRPR Badge. Then, once they got accepted for the main conference, they were eligible for the badge.
 
-The review implies checking the code associated with the paper, although it’s expected not to be very time-consuming and each reviewer might use their own criteria for a quick or more thorough evaluation. We nevertheless provide a guide with indications to what the reviewer might check. Note that the guide contains indications for the reviewer, but again this doesn't mean that these need to be taken as requests for the evaluation. The reviewers may use their own criteria to decide about the reproducibility of the submission. Of course, the more thorough the review is, the better.
+The review implies a verification of the code associated with the paper, although it’s expected to be not very time-consuming and the reviewers might use their own criteria for a quick or more thorough evaluation, depending on the case of each particular submission. We nevertheless provide here a guide with indications to what the reviewer might check.
 
 We assume that, in principle, all the submissions are already reproducible and therefore the task of the reviewers is simply to check that this is the case. Note that under no circumstances the work of the reviewers is to make the submissions of the authors reproducible.
 
@@ -30,17 +30,15 @@ It may happen that a submission is mainly reproducible but some details are miss
 
 If you accept to help us with this new initiative, please set the *"Reproducible Research in Pattern Recognition (RRPR) Badge"* option in your subject area.
 
-Please note that you can reach by email the Reproducibility Chairs at any time if you need: rr_chairs@icpr2026.org
-
-
-## The Reviewer's guide
+# The Reviewer's guide
 
 ## Start a review
 
-You will be assigned a code to evaluate on the **CMT system**, where you will have access to the paper associated with the **code to review**.
+You will be assigned a code to evaluate on the **CMT system**, where you will have access to the paper and any supplementary material associated with the **code to review**.
 
 ## A Reviewer's guide
-This section provides some hints for the reviewers. As pointed out before, each reviewer has the freedom to decide if the submission is reproducible or not by their own criteria and the suggestions in this section are not to be taken as requests for the evaluators. Of course, the more the reviewer checks to decide on the reproducibility of the submission, the better.
+This section provides some hints for the reviewers.
+Of course, the more the reviewer checks to decide on the reproducibility of the submission, the better.
 
 Some faults might be considered as major and therefore right away *disqualify a submission** from being granted the reproducibility badge. Thus, you may check the following items before any more detailed evaluation:
 
@@ -56,7 +54,7 @@ Some faults might be considered as major and therefore right away *disqualify a 
 
 In case the reviewers consider an important element is missing, they might write it as a request in the reviewer's report and condition their decision on the authors making the change. The Meta-Reviewers will request the authors to do the required changes and decide accordingly.
 
-Some items you review might want to check:
+Some items you might want to check as a reviewer:
 
 - The source code is publicly available
 - Any data required to run the method is publicly available. Ideally as FAIR (findable, accessible, interoperable, reusable)
@@ -71,19 +69,11 @@ Some items you review might want to check:
 
 In your short review report you might mention these items, or any other you judged important in your decision.
 
-Remember that this are only indications, not a request to systematically review each of the items. Of course, the more detailed the review, the better to support their decision. Needless to say, the compilation, execution, and comparison with the results provided by the authors are key elements to determine the reproducibility of the submission.
+Remember that these are only indications, not a request to systematically review each of the items. Of course, the more detailed the review, the better to support the decision. However, the compilation, execution, and comparison with the results provided by the authors are key elements to determine the reproducibility of the submission.
 
 The decision of the reviewers relies on their own criteria, which will be completed by the evaluation of the RR-Chairs acting as Meta-Reviewers.
 
-In order to help te reviewers in their task, we're providing a review form can be uploaded along with the report.
 
-{: .centertext}
-[![]({{ "assets/icon_markdown.png" | relative_url }}){: .width-8}]({{ "template/review_template.md" | relative_url }})&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![]({{ "assets/icon_docx.png" | relative_url }}){: .width-8}]({{ "template/review_template.docx" | relative_url }})
-[![]({{ "assets/icon_text.png" | relative_url }}){: .width-8}]({{ "template/review_template.txt" | relative_url }})
-
-
-{: .centertext}
-The form can be downloaded in different formats, at the convenience of the reviewer: markdown, docx, and plain text. You can download the templates by clicking on icons.
+Please note that you can reach by email the Reproducibility Chairs at any time if you need it: rr_chairs@icpr2026.org
 
 {% include contact.markdown %}
