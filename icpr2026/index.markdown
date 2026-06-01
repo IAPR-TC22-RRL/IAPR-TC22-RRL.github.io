@@ -27,10 +27,10 @@ You have detailed instructions in the corresponding pages for [authors]({{ "icpr
 
 ## Deadlines
 
-- Author's confirmation:
-- Issue assignment to reviewers:
-- Reviews are due oo:
-- Notification to authors:
+- Author's participation confirmation: 12/06
+- All issues assigned to reviewers: 16/06
+- Reviews deadline: 8/07
+- Notification to authors: 10/08
 
 {% include contact.markdown %}
 
