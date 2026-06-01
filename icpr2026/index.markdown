@@ -28,7 +28,7 @@ You have detailed instructions in the corresponding pages for [authors]({{ "icpr
 ## Deadlines
 
 - Author's participation confirmation: 12/06
-- All issues assigned to reviewers: 16/06
+- All submissions assigned to reviewers: 16/06
 - Reviews deadline: 8/07
 - Notification to authors: 10/08
 
