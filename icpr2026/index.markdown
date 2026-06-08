@@ -21,7 +21,7 @@ The review process is the following:
 3. Each reviewer will check the code, write a short report with a recommendation for the meta-reviewers with [CMT](https://cmt3.research.microsoft.com/ICPR2026/).
 4. Eventually, the ICPR Reproducibility Chairs act as meta-reviewers and **decide on the RRPR badge attribution**{: .chairs}.
 
-**The list of labeled papers** will appear in a section of the **ICPR official proceedings** dedicated to the label, as well as on the websites of **ICPR 2026** and the **IAPR Technical Committee 22** (TC-22).
+**The list of labeled papers** will appear on the websites of **ICPR 2026** and the **IAPR Technical Committee 22** (TC-22).
 
 You have detailed instructions in the corresponding pages for [authors]({{ "icpr2026/authors" | relative_url }}) and [reviewers]({{ "icpr2026/reviewers/" | relative_url }}).
 
