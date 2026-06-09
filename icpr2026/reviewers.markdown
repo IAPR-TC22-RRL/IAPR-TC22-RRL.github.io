@@ -59,7 +59,7 @@ Some items you might want to check as a reviewer:
 - There are clear and complete instructions on how to run the program and obtain results
 - The code runs after following the execution instructions
 - The reviewer is able to obtain the same or equivalent (for non-deterministic algorithms) results as given by the authors in their paper. For example, the reviewer is able to obtain the same tables or figures with the data provided.
-- The code is properly versioned, and it can be referred with a proper PID (as for example, the SHWID)
+- The code is properly versioned, and it can be referred with a proper PID (as for example, the SWHID)
 
 In your short review report you might mention these items, or any other you judged important in your decision.
 
