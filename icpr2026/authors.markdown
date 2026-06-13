@@ -22,14 +22,6 @@ Your code is eligible for the **Reproducible Research Label** if:
 
 ## Confirm your participation
 
-Please fill in the following form:
-
-{: .centertext}
-[![]({{ "assets/logo-github.png" | relative_url }})](https://github.com/IAPR-TC22-RRL/ICPR-2026-Reproducible-Research-Label-submissions/)<br>
-_[https://github.com/IAPR-TC22-RRL/ICPR-2026-Reproducible-Research-Label-submissions/](https://github.com/IAPR-TC22-RRL/ICPR-2026-Reproducible-Research-Label-submissions/)_
-
-This will serve to confirm that, after reading the guides for authors and reviewers, you consider your submission to be reproducible and therefore you want to move forward in the evaluation process.
-
-A reviewer might decide that the submission is not reproducible right away if it's got major faults. However, they might ask the authors to perform some adjustments in their code. The outcome of the request will condition the final badging decision.
+<b style='color:#F54927;'>The period to confirm participation in the RRPR Badge review is now due.</b>
 
 {% include contact.markdown %}
