@@ -28,8 +28,8 @@ You have detailed instructions in the corresponding pages for [authors]({{ "icpr
 ## Deadlines
 
 - Author's participation confirmation: 12/06
-- All submissions assigned to reviewers: 29/06
-- Reviews deadline: 10/07
+- All submissions assigned to reviewers: 06/07
+- Reviews deadline: 20/07
 - Notification to authors: 10/08
 
 {% include contact.markdown %}
