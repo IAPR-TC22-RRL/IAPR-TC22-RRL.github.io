@@ -21,7 +21,7 @@
 title: IAPR TC22-RRPR | ICPR 2026 Reproducible Research in Pattern Recognition (RRPR) Badge
 email: rr_chairs@icpr2026.org
 description: >- # this means to ignore newlines until "baseurl:"
-  Website of the Reproducible Research Label for ICPR 2026 proposed by IAPR TC22-RRPR.
+  Website of the Reproducible Research Badge in ICPR 2026, proposed by IAPR TC-22.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://iapr-tc22-rrl.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
