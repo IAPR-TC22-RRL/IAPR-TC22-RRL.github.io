@@ -91,7 +91,7 @@ Mohit Jiwatode (Leibniz University Hannover); Alexander Dockhorn (University of 
 Matteo Gianferrari (University of Modena and Reggio Emilia); Omayma Moussadek (University of Modena and Reggio Emilia); Riccardo Salami (University of Modena and Reggio Emilia); Cosimo Fiorini (University of Modena and Reggio Emilia); Lorenzo Tartarini (University of Modena and Reggio Emilia); Daniela Gandolfi (University of Modena and Reggio Emilia); Simone Calderara (University of Modena and Reggio Emilia)
 
 **Optimizing Three Critical Factors for Practical and Effective OOD Detection Fine-tuning**  
-Hyunjun Choi (Seoul National University ); JaeHo Chung (Seoul National University); Hawook Jeong (RideFlux Inc)
+Hyunjun Choi (Seoul National University); JaeHo Chung (Seoul National University); Hawook Jeong (RideFlux Inc)
 
 **OdorNet: An Approach for Smell Digitization and Classification**  
 Ajay Kumar Sharma (IIT Mandi); Aditya Nigam (IIT Mandi); Arnav Bhavsar (IIT Mandi); Anika Shrivastava (HCLTech India); Nikita Lakha (HCLTech India); Abhishek Kumar (HCLTech India); Anurag Pandey (IIT Mandi)
@@ -105,7 +105,7 @@ Luyu Yang (Institute of Automation; Chinese Academy of Sciences); Faqiang Liang 
 ## Biomedical Imaging and Bioinformatics
 
 **SRA-Seg: Synthetic to Real Alignment for Semi-Supervised Medical Image Segmentation**  
-OFM Riaz Rahman Aranya (University of Texas at San Antonio); Kevin Desai (University of Texas at San Antonio )
+OFM Riaz Rahman Aranya (University of Texas at San Antonio); Kevin Desai (University of Texas at San Antonio)
 
 **MMAF: Multimodal Attention Fusion for Molecular Toxicity Prediction**  
 Faiz Ur Rehman (Ca' Foscari University of Venice); Muhammad Rameez Ur Rahman (Ca' Foscari University of Venice); Sebastiano Vascon (Ca' Foscari University of Venice & European Centre for Living Technology); Marcello Pelillo (Ca' Foscari University of Venice)
@@ -114,7 +114,7 @@ Faiz Ur Rehman (Ca' Foscari University of Venice); Muhammad Rameez Ur Rahman (Ca
 Changhui Su (Hebei University of Technology)
 
 **Towards Label-Free Single-Cell Phenotyping Using Multi-Task Learning**  
-Saqib Nazir (Edge Hill University); Ardhendu Behera (Edge Hill University )
+Saqib Nazir (Edge Hill University); Ardhendu Behera (Edge Hill University)
 
 **DepthPolyp: Pseudo-Depth Guided Lightweight Segmentation for Real-Time Colonoscopy**  
 Zhuoyu Wu (Cyphi AI Lab; Monash University; Malaysia Campus); Wenhui Ou (Department of Electronic and Computer Engineering; Hong Kong University of Science and Technology); Lexi Zhang (Harbin Institute of Technology); Pei-Sze Tan (CyPhi AI Lab; Monash University; Malaysia Campus); Dongjun Wu (Department of Electronic and Computer Engineering; Hong Kong University of Science and Technology); Junhe Zhao (Shenzhen Institutes of Advanced Technology; Chinese Academy of Sciences); Wenqi Fang (Shenzhen Institutes of Advanced Technology; Chinese Academy of Sciences); Raphael C.-W. Phan (Cyphi AI Lab; Monash University; Malaysia Campus)
@@ -166,7 +166,7 @@ Luca Domeniconi (Universitá di Bologna); Alessandra Stramiglio (Universitá di 
 Shijia Feng (University of Bristol); Michael Wray (University of Bristol); Walterio Mayol-Cuevas (University of Bristol)
 
 **TAG-Head: Time-Aligned Graph Head for Plug-and-Play Fine-grained Action Recognition**  
-Imtiaz Ul Hassan (Edgehill University); Nik Bessis (Edge Hill University); Ardhendu Behera (Edge Hill University )
+Imtiaz Ul Hassan (Edgehill University); Nik Bessis (Edge Hill University); Ardhendu Behera (Edge Hill University)
 
 **Unifying Runtime Monitoring Approaches for Safety-Critical Machine Learning: Application to Vision-Based Landing**  
 Mathieu Dario (LAAS); Florent Chenevier (Thales); Kevin Delmas (ONERA); Joris Guerin (IRD); Jérémie Guiochet (LAAS-CNRS)
@@ -175,7 +175,7 @@ Mathieu Dario (LAAS); Florent Chenevier (Thales); Kevin Delmas (ONERA); Joris Gu
 Yunhui Deng (Chongqing University); Hongxing Wang (Chongqing University)
 
 **Knowledge-Integrated Reasoning: A Novel Approach for External Knowledge Based Visual Question Answering**  
-Pyry Satama (Aalto University); Abduljalil Radman (Aalto University); Jorma Laaksonen (Aalto University )
+Pyry Satama (Aalto University); Abduljalil Radman (Aalto University); Jorma Laaksonen (Aalto University)
 
 **Leveraging Gaze and Set-of-Mark in VLLMs for Human-Object Interaction Anticipation from Egocentric Videos**  
 Daniele Materia (University of Catania); Francesco Ragusa (University of Catania); Giovanni Farinella (University of Catania)
@@ -242,13 +242,13 @@ Wonder Luz Alves (Universidade Nove de Julho); Lucas Santos (Universidade Nove d
 Emmanuel Maminta (University of the Philippines); Rowel Atienza (University of the Philippines)
 
 **U-CFR: Uncertainty-Guided Cascade Forward Refinement for Interactive Segmentation**  
-Elijah Danquah Darko (University of Idaho); Min Xian (University of Idaho); Terence Soule (University of Idaho); Tiankai Yao (Idaho National Laboratory ); Matthew William Anderson (Idaho National Laboratory )
+Elijah Danquah Darko (University of Idaho); Min Xian (University of Idaho); Terence Soule (University of Idaho); Tiankai Yao (Idaho National Laboratory); Matthew William Anderson (Idaho National Laboratory)
 
 **TopoLoRA-SAM: Topology-Aware Parameter-Efficient Adaptation of Foundation Segmenters for Thin-Structure and Cross-Domain Binary Semantic Segmentation**  
 Salim Khazem (Talan Research and Innovation Center)
 
 **EyeTheia: A Lightweight and Accessible Eye-Tracking Toolbox**  
-Stevenson Pather (Univ. Lille; Inserm; CHU Lille; U1172 - LilNCog - Lille Neuroscience & Cognition; F-59000 Lille; France); Niels Martignène (Univ. Lille; Inserm; CHU Lille; U1172 - LilNCog - Lille Neuroscience & Cognition; F-59000 Lille; France); Arnaud Bugnet (Univ. Lille; Inserm; CHU Lille; U1172 - LilNCog - Lille Neuroscience & Cognition; F-59000 Lille; France); Fouad Boutaleb (Univ. Lille; Inserm; CHU Lille; U1172 - LilNCog - Lille Neuroscience & Cognition; CNRS; Centrale Lille; UMR 9189 CRIStAL; F-59000 Lille; France); Fabien D'Hondt (Univ. Lille; Inserm; CHU Lille; U1172 - LilNCog - Lille Neuroscience & Cognition; Centre national de ressources et de résilience (CN2R); F-59000 Lille; France); Deise Santana Maia (Univ. Lille; CNRS; Centrale Lille; UMR 9189 CRIStAL; F-59000 Lille; France )
+Stevenson Pather (Univ. Lille; Inserm; CHU Lille; U1172 - LilNCog - Lille Neuroscience & Cognition; F-59000 Lille; France); Niels Martignène (Univ. Lille; Inserm; CHU Lille; U1172 - LilNCog - Lille Neuroscience & Cognition; F-59000 Lille; France); Arnaud Bugnet (Univ. Lille; Inserm; CHU Lille; U1172 - LilNCog - Lille Neuroscience & Cognition; F-59000 Lille; France); Fouad Boutaleb (Univ. Lille; Inserm; CHU Lille; U1172 - LilNCog - Lille Neuroscience & Cognition; CNRS; Centrale Lille; UMR 9189 CRIStAL; F-59000 Lille; France); Fabien D'Hondt (Univ. Lille; Inserm; CHU Lille; U1172 - LilNCog - Lille Neuroscience & Cognition; Centre national de ressources et de résilience (CN2R); F-59000 Lille; France); Deise Santana Maia (Univ. Lille; CNRS; Centrale Lille; UMR 9189 CRIStAL; F-59000 Lille; France)
 
 **Assessing the Visual Enumeration Abilities of Specialized Counting Architectures and Vision-Language Models**  
 kuinan hou (University of Padova); jing mi ( University of Padova); marco zorzi ( University of Padova); lamberto ballan (University of Padova); alberto testolin (University of Padova)
@@ -263,7 +263,7 @@ Paola Magillo (University of Genova); Lidjia Comic (University of Novi Sad); Alb
 MOHAMED SAKKARI (Laboratory for Computer Science; Image and Interaction (L3i)); Marie-Claire Iatrides ( Laboratory for Computer Science; Image and Interaction (L3i)); Petra Gomez ( Laboratory for Computer Science; Image and Interaction (L3i))
 
 **CAFACLite: Condition Aware Face Anchor Classification for Face Detection with Lightweight Networks**  
-Yogesh Aggarwal (Indian Institute of Technology; Guwahati); Prithwijit Guha (Indian Institute of Technology Guwahati )
+Yogesh Aggarwal (Indian Institute of Technology; Guwahati); Prithwijit Guha (Indian Institute of Technology Guwahati)
 
 # Thanks to the Reviewer Board for their thorough evaluations!
 Archisman Adhikary  
