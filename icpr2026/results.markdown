@@ -204,6 +204,12 @@ Michaela Levi Richter (Bar-Ilan University); Reuth Mirsky (Tufts University); Or
 **Dual-Branch Spectral–Spatial Network with Knowledge- and Data-Driven Band Selection for UAV Hyperspectral Wheat Rust Detection**  
 SUBIN KIM (Utah State University); Xiaojun Qi (Utah State University)
 
+**Cross-modal learning for plankton recognition**
+Joona Kareinen (LUT University)*; Veikka Immonen (LUT University); Tuomas Eerola (LUT University); Lumi Haraguchi (Finnish Environment Institute); Lasse Lensu (LUT University); Kaisa Kraft (Finnish Environment Institute); Sanna Suikkanen (Finnish Environment Institute); Heikki Kälviäinen (LUT University)
+
+**Semantically Stable Image Composition Analysis via Saliency and Gradient Vector Flow Fusion**
+Armin Dadras (TU Wien / UAS St. Pölten); Robert Sablatnig (TU Wien); Franziska Proksa (UAS St. Pölten); Markus Seidl (UAS St. Pölten)
+
 ## Document Analysis and Recognition
 
 **Benchmarking Document Parsers on Mathematical Formula Extraction from PDFs**  
