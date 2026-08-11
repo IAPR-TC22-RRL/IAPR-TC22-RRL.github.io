@@ -49,7 +49,7 @@ Danyu Yang (College of Mathematics and Statistics; Chongqing University)
 Mariana Brito Azevedo (Université de Caen Normandie; GREYC); Luc Brun (ENSICAEN; GREYC); Pierre Héroux (Université de Rouen Normandie; LITIS); Jean-Luc Lamotte (Université de Caen Normandie; GREYC)
 
 **Automatic Segmentation for 3D Morphometric Analysis of the Mouse Brain**  
-Beyza Zayim (Universite de Bourgogne)
+Beyza Zayim (Université de Bourgogne, CNRS, ICMUB UMR 6302), Emilia Skutunova, Taiabur Rahman, Nida Yardim, Salma Zarfaoui, Hanzala Daud, Alienor Vaudene, Binnaz Yalcin, Alain Lalande, Fabrice Meriaudeau, and Stephan Collins (Inserm UMR 1231, Institut NeuroMyoGène INMG-PGNM–CNRS UMR 526)
 
 **Machine Unlearning in the Era of Quantum Machine Learning: An Empirical Study**  
 Carla Crivoi (University of Bucharest); Radu Tudor Ionescu (University of Bucharest)
@@ -76,7 +76,7 @@ Jiawen Xue (College of Computer Science and Software Engineering; Hohai Universi
 Seungu Kang (Yonsei University); Songkuk Kim (Yonsei University)
 
 **When Smaller Wins: Dual-Stage Distillation and Pareto-Guided Compression of Liquid Neural Networks for Edge Battery Prognostics**  
-Dhivya Dharshini Kannan (Singapore Institute of Technology (SIT)); Wei Li (Singapore Institute of Technology (SIT)); Wei Zhang (Singapore Institute of Technology (SIT)); Jianbiao Wang (Institute of Materials Research and Engineering (IMRE); Agency for Science; Technology and Research (ASTAR)); Zhi Wei Seh (Institute of Materials Research and Engineering (IMRE); Agency for Science; Technology and Research (ASTAR)); Man-Fai Ng (Institute of High Performance Computing (IHPC); Agency for Science; Technology and Research (ASTAR))
+Dhivya Dharshini Kannan (Singapore Institute of Technology (SIT)); Wei Li (Singapore Institute of Technology (SIT)); Wei Zhang (Singapore Institute of Technology (SIT)); Jianbiao Wang (Institute of Materials Research and Engineering (IMRE); Agency for Science; Technology and Research (ASTAR); Zhi Wei Seh (Institute of Materials Research and Engineering (IMRE); Agency for Science; Technology and Research (ASTAR); Man-Fai Ng (Institute of High Performance Computing (IHPC); Agency for Science; Technology and Research (ASTAR)
 
 **Enabling 8B Bitwise Autoregressive Image Generation on Edge GPUs**  
 Enrico Vezzali (Università degli Studi di Modena e Reggio Emilia); Federico Bolelli (Università degli Studi di Modena e Reggio Emilia); Costantino Grana (Università degli Studi di Modena e Reggio Emilia); Luca Benini (Integrated Systems Laboratory; ETH Zürich); Yawei Li (Integrated Systems Laboratory; ETH Zürich)
@@ -97,7 +97,7 @@ Hyunjun Choi (Seoul National University); JaeHo Chung (Seoul National University
 Ajay Kumar Sharma (IIT Mandi); Aditya Nigam (IIT Mandi); Arnav Bhavsar (IIT Mandi); Anika Shrivastava (HCLTech India); Nikita Lakha (HCLTech India); Abhishek Kumar (HCLTech India); Anurag Pandey (IIT Mandi)
 
 **Zero-shot Sim2Real Wildfire Frontline Estimation from UAV Imagery via VLM-Guided Learning**  
-Eunseong Ko (Pusan National University); Changmin Lee (Pusan National University); Wonsuk Kim ( Pusan National University)
+Eunseong Ko (Pusan National University); Changmin Lee (Pusan National University); Wonsuk Kim (Pusan National University)
 
 **A Multi-class Defect Detection Unified Model Based on Language-guided Attention and Confidence-aware Refinement**  
 Luyu Yang (Institute of Automation; Chinese Academy of Sciences); Faqiang Liang (Institute of Automation; Chinese Academy of Sciences); Shangbin Xie (Institute of Automation; Chinese Academy of Sciences); Xiangli Nie (Institute of Automation; Chinese Academy of Sciences)
@@ -126,7 +126,7 @@ Yuxin Xiao (Beijing University of Chemical Technology); Riad Valiyev (Beijing Un
 Domenico Amato (Università degli studi di Palermo); Celeste Caruso Bavisotto (Università degli studi di Palermo); Salvatore Calderaro (Università degli studi di Palermo); Giosue' Lo Bosco (Dipartimento di Matematica e Informatica; Università di Palermo); Francesca Maria Palazzotto (Università degli studi di Palermo); Riccardo Rizzo (Consiglio Nazionale delle Ricerche); Pierlorenzo Maria Veiceschi (Università degli studi di Palermo); Filippo Vella (Consiglio Nazionale delle Ricerche)
 
 **HistDiT: A Structure-Aware Latent Conditional Diffusion Model for High-Fidelity Virtual Staining in Histopathology**  
-Raja Aasim Bin Saleem (Edge Hill University); Amr Ahmed (Edge Hill University; United Kingdom); Ardhendu Behera (Edge Hill University); Hafeez Ullah Amin (Edge Hill University); Iman Yi Liao ( University of Nottingham Malaysia); Mahmoud Abdelazim Khattab (University of Southampton Malaysia); Pan Jia Wern (Cancer Research Malaysia); Haslina Makmur (Cancer Research Malaysia)
+Raja Aasim Bin Saleem (Edge Hill University); Amr Ahmed (Edge Hill University; United Kingdom); Ardhendu Behera (Edge Hill University); Hafeez Ullah Amin (Edge Hill University); Iman Yi Liao (University of Nottingham Malaysia); Mahmoud Abdelazim Khattab (University of Southampton Malaysia); Pan Jia Wern (Cancer Research Malaysia); Haslina Makmur (Cancer Research Malaysia)
 
 **EEGWriter: A Multimodal Deep Learning Framework for Automated EEG Diagnostic Report Generation**  
 Muhammad Athar (School of Electrical Engineering and Computer Science (SEECS); National University of Sciences and Technology (NUST); Islamabad); Hira Masood (School of Electrical Engineering and Computer Science (SEECS); National University of Sciences and Technology (NUST); Islamabad; Pakistan); Faisal Shafait (School of Electrical Engineering and Computer Science (SEECS); National University of Sciences and Technology (NUST); Islamabad; Pakistan); Hassan Aqeel Khan (Department of Applied Artificial Intelligence and Robotics; Aston University; Birmingham; United Kingdom)
@@ -151,7 +151,7 @@ Yu-Hsi Chen (The University of Melbourne)
 ## Computer and Robot Vision
 
 **BEM: Training-Free Background Embedding Memory for False-Positive Suppression in Real-Time Fixed-Background Camera**  
-Junwoo Park ( Incheon National University); Jangho Lee (Incheon National University); Sunho Lim (Texas Tech University)
+Junwoo Park (Incheon National University); Jangho Lee (Incheon National University); Sunho Lim (Texas Tech University)
 
 **PanoSAMic: Panoramic Image Segmentation from SAM Feature Encoding and Dual View Fusion**  
 Mahdi Chamseddine (DFKI); Didier Stricker (DFKI); Jason Rambach (DFKI)
@@ -181,7 +181,7 @@ Pyry Satama (Aalto University); Abduljalil Radman (Aalto University); Jorma Laak
 Daniele Materia (University of Catania); Francesco Ragusa (University of Catania); Giovanni Farinella (University of Catania)
 
 **EgoHAnG: Graph-Enhanced Horizon Aware Egocentric Action Anticipation**  
-Pawanesh Kumar Vishwakarma ( Motilal Nehru National Institute of Technology Allahabad; Prayagraj); Ananda S. Chowdhury (Jadavpur University Kolkata); ABHIMANYU SAHU (Motilal Nehru National Institute of Technology; Allahabad;)
+Pawanesh Kumar Vishwakarma (Motilal Nehru National Institute of Technology Allahabad; Prayagraj); Ananda S. Chowdhury (Jadavpur University Kolkata); ABHIMANYU SAHU (Motilal Nehru National Institute of Technology; Allahabad;)
 
 **PRISM: Color-Stratified Point Cloud Sampling**  
 Hansol Lim (SUNY Korea); Minhyeok Im (SUNY Korea); Jongseong Choi (SUNY Korea)
@@ -230,7 +230,7 @@ Mohab Kishawy (McMaster University); Ali Abdellatif Hussein (McMaster University
 Eslam Hegazy (German University in Cairo); Mohamed Gabr (German University in Cairo)
 
 **WeedDiffusion: A Dual-Branch Synthetic Augmentation Framework for Weed Mapping**  
-Pasquale De Marinis (University of Bari Aldo Moro); Antonio Iammarino ( University of Bari Aldo Moro); Gennaro Vessio (University of Bari Aldo Moro); Giovanna Castellano (University of Bari Aldo Moro)
+Pasquale De Marinis (University of Bari Aldo Moro); Antonio Iammarino (University of Bari Aldo Moro); Gennaro Vessio (University of Bari Aldo Moro); Giovanna Castellano (University of Bari Aldo Moro)
 
 **LayerGS: Decomposition and Inpainting of Layered 3D Human Avatars via 2D Gaussian Splatting**  
 Yinghan Xu (Trinity College Dublin); John Dingliana (Trinity College Dublin)
@@ -251,7 +251,7 @@ Salim Khazem (Talan Research and Innovation Center)
 Stevenson Pather (Univ. Lille; Inserm; CHU Lille; U1172 - LilNCog - Lille Neuroscience & Cognition; F-59000 Lille; France); Niels Martignène (Univ. Lille; Inserm; CHU Lille; U1172 - LilNCog - Lille Neuroscience & Cognition; F-59000 Lille; France); Arnaud Bugnet (Univ. Lille; Inserm; CHU Lille; U1172 - LilNCog - Lille Neuroscience & Cognition; F-59000 Lille; France); Fouad Boutaleb (Univ. Lille; Inserm; CHU Lille; U1172 - LilNCog - Lille Neuroscience & Cognition; CNRS; Centrale Lille; UMR 9189 CRIStAL; F-59000 Lille; France); Fabien D'Hondt (Univ. Lille; Inserm; CHU Lille; U1172 - LilNCog - Lille Neuroscience & Cognition; Centre national de ressources et de résilience (CN2R); F-59000 Lille; France); Deise Santana Maia (Univ. Lille; CNRS; Centrale Lille; UMR 9189 CRIStAL; F-59000 Lille; France)
 
 **Assessing the Visual Enumeration Abilities of Specialized Counting Architectures and Vision-Language Models**  
-kuinan hou (University of Padova); jing mi ( University of Padova); marco zorzi ( University of Padova); lamberto ballan (University of Padova); alberto testolin (University of Padova)
+Kuinan Hou (University of Padova); Jing Mi (University of Padova); Marco Zorzi (University of Padova); Lamberto Ballan (University of Padova); Alberto Testolin (University of Padova)
 
 **Freq2Clean: enhancing calcium imaging denoising via frequency-domain fusion**  
 Valerio Morelli (Italian Institute of Technology); Daniele Berardini (Italian Institute of Technology); Giorgio Letti (Italian Institute of Technology); Sebastiano Curreli (Italian Institute of Technology); Adriano Mancini (Università Politecnica delle Marche); Tommaso Fellin (Italian Institute of Technology); Vittorio Murino (Italian Institute of Technology)
@@ -260,7 +260,7 @@ Valerio Morelli (Italian Institute of Technology); Daniele Berardini (Italian In
 Paola Magillo (University of Genova); Lidjia Comic (University of Novi Sad); Alberto Seles (University of Genova)
 
 **Learning Dynamic Branch Selection forDomain-Specific Segmentation**  
-MOHAMED SAKKARI (Laboratory for Computer Science; Image and Interaction (L3i)); Marie-Claire Iatrides ( Laboratory for Computer Science; Image and Interaction (L3i)); Petra Gomez ( Laboratory for Computer Science; Image and Interaction (L3i))
+MOHAMED SAKKARI (Laboratory for Computer Science; Image and Interaction (L3i)); Marie-Claire Iatrides (Laboratory for Computer Science; Image and Interaction (L3i)); Petra Gomez (Laboratory for Computer Science; Image and Interaction (L3i))
 
 **CAFACLite: Condition Aware Face Anchor Classification for Face Detection with Lightweight Networks**  
 Yogesh Aggarwal (Indian Institute of Technology; Guwahati); Prithwijit Guha (Indian Institute of Technology Guwahati)
