@@ -232,6 +232,9 @@ Jongwon Ryu (Chung-Ang University); Jisoo Yang (Chung-Ang University); Minuk Ma 
 
 ## Image; Speech; Signal and Video Processing
 
+**Training Free Zero-Shot Image Anomaly Localisation via Diffusion Inversion**  
+Samet Hicsonmez (University of Luxembourg)*; Abd El Rahman Shabayek (University of Luxembourg); Djamila AOUADA (University of Luxembourg)
+
 **RetinexDual: Retinex-based Dual Nature Approach for Generalized Ultra-High-Definition Image Restoration**  
 Mohab Kishawy (McMaster University); Ali Abdellatif Hussein (McMaster University); Jun Chen (McMaster University)
 
