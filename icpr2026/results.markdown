@@ -150,6 +150,9 @@ Yu-Hsi Chen (The University of Melbourne)
 
 ## Computer and Robot Vision
 
+**REVNET: Rotation-Equivariant Point Cloud Completion via Vector Neuron Anchor Transformer**  
+Zhifan Ni (Technical University of Munich); Eckehard Steinbach (Technical University of Munich)
+
 **BEM: Training-Free Background Embedding Memory for False-Positive Suppression in Real-Time Fixed-Background Camera**  
 Junwoo Park (Incheon National University); Jangho Lee (Incheon National University); Sunho Lim (Texas Tech University)
 
