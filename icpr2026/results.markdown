@@ -21,6 +21,9 @@ Congratulations to the authors, who we also thank for their effort towards relia
 
 ## Artificial Intelligence; Machine Learning for Pattern Analysis
 
+**Learning and Recognizing Latent Innovation Maturity Indicator Patterns in Texts**  
+Mélusine Caillard (Sorbonne Université); Gaël Lejeune (Sorbonne Université); Pierre-Emmanuel Fayemi (Ikos Lab); Améziane Aoussat (ENSAM)
+
 **CorkHSI: Hyperspectral Anomaly Detection in Corks Using an Autoencoder with a Novel Spectral–Spatial Loss Optimization**  
 Afshin Dini (TAU); Farnaz Delirie (Tampere Univeristy); Esa Rahtu (Tampere Univeristy)
 
